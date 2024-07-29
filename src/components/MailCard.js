@@ -4,6 +4,8 @@ import MaterialIcons from "react-native-vector-icons/MaterialIcons"
 import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons"
 
 export default function MailCard({id, name, verified, msg, prof, time}) {
+
+  // hello
   return (
     <View style={styles.container}>
       <View style={styles.leftCont}>
